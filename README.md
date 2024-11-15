@@ -21,7 +21,7 @@ Instructor: [Sharon Zhou - @LAMINI_AI](https://x.com/realsharonzhou)
 
 |Chapters|Notebooks|Demos|
 |------------------------------------------------------|-----------------------------------------------------------|-------------------------------|
-|[Introduction](./lab/chapters/slides/00_introduction/)|-|-|
+|[Introduction](./lab/chapters/slides/00_intro/)|-|-|
 |[Why finetune](./lab/chapters/slides/01_why_finetune/)|[01_Why_finetuning_lab_student.ipynb](./lab/notebooks/L1/01_Why_finetuning_lab_student.ipynb)|-|
 |[Where finetuning fits in](./lab/chapters/slides/02_where_finetuning_fits_in/)|[02_Where_finetuning_fits_in_lab_student.ipynb](./lab/notebooks/L2/02_Where_finetuning_fits_in_lab_student.ipynb)|-|
 |[Instruction finetuning](./lab/chapters/slides/03_instruction_finetuning/)|[03_Instruction_tuning_lab_student.ipynb](./lab/notebooks/L3/03_Instruction_tuning_lab_student.ipynb)|-|
