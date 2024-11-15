@@ -16,7 +16,7 @@ Instructor: [Sharon Zhou - @LAMINI_AI](https://x.com/realsharonzhou)
 
 
 ## Introduction
-- [Slides](./lab/chapters/slides/00_introduction/)
+- [Slides](./lab/chapters/slides/00_intro/)
 
 ## Why finetune
 - [Slides](./lab/chapters/slides/01_why_finetune/)
