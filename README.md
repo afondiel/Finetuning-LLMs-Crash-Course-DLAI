@@ -1,4 +1,4 @@
-# **Finetuning Large Language Models (LLMs)LLMs Crash Course (DeepLearning.AI)**
+# **Finetuning Large Language Models (LLMs) Crash Course (DeepLearning.AI)**
 
 ## Overview
 
